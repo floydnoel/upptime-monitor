@@ -42,7 +42,7 @@
     "url": "https://floydnoel.com",
     "icon": "https://icons.duckduckgo.com/ip3/floydnoel.com.ico",
     "slug": "floyd-noel-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
     "uptimeDay": "96.78%",
     "uptimeWeek": "98.91%",
@@ -54,6 +54,7 @@
     "timeMonth": 547,
     "timeYear": 357,
     "dailyMinutesDown": {
+      "2023-12-27": 0,
       "2023-12-26": 47,
       "2023-12-24": 48,
       "2023-12-22": 15,
