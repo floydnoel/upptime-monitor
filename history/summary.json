@@ -4,7 +4,7 @@
     "url": "https://logbook-ed.com",
     "icon": "https://icons.duckduckgo.com/ip3/logbook-ed.com.ico",
     "slug": "logbook",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 131,
     "timeMonth": 164,
     "timeYear": 176,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "Bongo",
