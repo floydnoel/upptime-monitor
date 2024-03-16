@@ -4,19 +4,19 @@
     "url": "https://logbook-ed.com",
     "icon": "https://icons.duckduckgo.com/ip3/logbook-ed.com.ico",
     "slug": "logbook",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 176,
-    "timeDay": 147,
-    "timeWeek": 131,
-    "timeMonth": 164,
-    "timeYear": 176,
+    "time": 175,
+    "timeDay": 114,
+    "timeWeek": 125,
+    "timeMonth": 162,
+    "timeYear": 175,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 15
     }
   },
   {
