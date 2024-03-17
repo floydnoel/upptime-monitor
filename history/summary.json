@@ -6,18 +6,16 @@
     "slug": "logbook",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 175,
-    "timeDay": 114,
-    "timeWeek": 125,
-    "timeMonth": 162,
+    "timeDay": 128,
+    "timeWeek": 137,
+    "timeMonth": 164,
     "timeYear": 175,
-    "dailyMinutesDown": {
-      "2024-03-16": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bongo",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 374,
-    "timeDay": 192,
-    "timeWeek": 271,
-    "timeMonth": 390,
-    "timeYear": 374,
+    "time": 375,
+    "timeDay": 519,
+    "timeWeek": 276,
+    "timeMonth": 268,
+    "timeYear": 375,
     "dailyMinutesDown": {
       "2023-08-02": 19
     }
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 342,
-    "timeDay": 801,
-    "timeWeek": 402,
-    "timeMonth": 327,
+    "timeDay": 314,
+    "timeWeek": 394,
+    "timeMonth": 331,
     "timeYear": 342,
     "dailyMinutesDown": {
       "2023-12-26": 47,
